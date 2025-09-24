@@ -1,11 +1,15 @@
-# Twitter UI clone
+# Personal Blog
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/bintangputra5556-4561s-projects/v0-twitter-ui-clone)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/ZraAc12QOZ9)
 
+![Personal Blog Application](https://github.com/user-attachments/assets/cade6899-a6e6-4fdb-9ad0-f8efd6be3228)
+
 ## Overview
+
+A modern personal blog application with a Twitter-like feed interface. Built with Next.js, TypeScript, and Tailwind CSS, featuring a clean, responsive design with blog posts, author profiles, and interactive elements.
 
 This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
 Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
